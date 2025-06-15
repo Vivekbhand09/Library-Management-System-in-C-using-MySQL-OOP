@@ -57,12 +57,12 @@ CREATE TABLE student (
 
 Below are some screenshots of the application in action:
 
-| Home Menu | Add Book | Borrow Book |
+| Home Menu | Administration Panel | User Panel |
 |-----------|----------|-------------|
 | ![Home](screenshots/1.png) | ![Add Book](screenshots/2.png) | ![Borrow Book](screenshots/3.png) |
 
-| Student ID Not Found | Book Not Available | Book Borrowed Successfully |
-|----------------------|--------------------|-----------------------------|
-| ![Not Found](screenshots/4.png) | ![Unavailable](screenshots/5.png) | ![Success](screenshots/6.png) |
+| Borrowing Book  | Book Borrowed Successfully |
+|----------------------|-----------------------------|
+| ![Not Found](screenshots/4.png) | ![Unavailable](screenshots/5.png) | 
 
-> 🖼 All screenshots are stored in the `screenshots/` folder. Images are named as `1.png`, `2.png`, ..., `6.png` and so on.
+
