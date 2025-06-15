@@ -53,16 +53,21 @@ CREATE TABLE student (
 );
 
 
-## 🖼 Screenshots
+## 📸 Screenshots
 
 Below are some screenshots of the application in action:
 
-| Home Menu | Administration Panel | User Panel |
-|-----------|----------|-------------|
-| ![Home](screenshots/1.png) | ![Add Book](screenshots/2.png) | ![Borrow Book](screenshots/3.png) |
+### 🏠 Main Sections
 
-| Borrowing Book  | Book Borrowed Successfully |
-|----------------------|-----------------------------|
-| ![Not Found](screenshots/4.png) | ![Unavailable](screenshots/5.png) | 
+| Home Menu | Add Book | Borrow Book |
+|-----------|----------|-------------|
+| <img src="screenshots/1.png" width="300"/> | <img src="screenshots/2.png" width="300"/> | <img src="screenshots/3.png" width="300"/> |
+
+### 📘 Borrowing Flow
+
+| Not Found | Unavailable |
+|-----------|-------------|
+| <img src="screenshots/4.png" width="300"/> | <img src="screenshots/5.png" width="300"/> |
+
 
 
