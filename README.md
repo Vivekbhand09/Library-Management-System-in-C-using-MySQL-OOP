@@ -55,14 +55,15 @@ CREATE TABLE student (
 
 ## 📸 Screenshots
 
-<img src="screenshots/1.png" width="500"/>
+![Screenshot 1](screenshots/1.png)
 
-<img src="screenshots/2.png" width="500"/>
+![Screenshot 2](screenshots/2.png)
 
-<img src="screenshots/3.png" width="500"/>
+![Screenshot 3](screenshots/3.png)
 
-<img src="screenshots/4.png" width="500"/>
+![Screenshot 4](screenshots/4.png)
 
-<img src="screenshots/5.png" width="500"/>
+![Screenshot 5](screenshots/5.png)
+
 
 
