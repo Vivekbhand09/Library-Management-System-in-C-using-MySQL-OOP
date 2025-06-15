@@ -5,9 +5,9 @@
 #include <sstream>
 using namespace std;
 
-const char* HOST = "localhost";
-const char* USER = "root";
-const char* PW = "pass";
+const char* HOST = "Host_Name";
+const char* USER = "User_Name";
+const char* PW = "Your_Password";
 const char* DB = "cpp";
 
 class Student{
